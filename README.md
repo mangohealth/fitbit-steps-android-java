@@ -25,8 +25,8 @@ interested in seeing how you solve problems and your work style given the time c
 ## Resources
 * Fitbit API doc: https://dev.fitbit.com/reference/web-api/basics/
 * Fitbit API OAuth doc: https://dev.fitbit.com/build/reference/web-api/oauth2/
-* Client ID: 22BCNM
-* Client Secret: 51b61e8dcb554533805cd81160eb07cf
+* Client ID: 22BCNN
+* Client Secret: 9404b49ceedf5c3113da7a52e8776a18
 * Auth URI: https://www.fitbit.com/oauth2/authorize
 * Access/Refresh token request URI: https://api.fitbit.com/oauth2/token
 * Callback URL: app://fitbitsteps/oauth-callback (handle using Android App Link)
